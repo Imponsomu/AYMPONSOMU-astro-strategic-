@@ -81,3 +81,22 @@ padding:20px;
 footer {
 padding:20px;
 }
+.hook {
+padding: 50px 20px;
+background: linear-gradient(black, purple);
+text-align: center;
+}
+
+.hook h2 {
+font-size: 24px;
+}
+
+.hook p {
+font-size: 18px;
+}
+
+.highlight {
+color: gold;
+font-weight: bold;
+margin: 15px 0;
+}
